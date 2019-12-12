@@ -38,5 +38,5 @@ bem como seu armazenamento em um banco de dados e suas visualizações.
   Circuito do arduino:
   
   <p align="center">
-    <img src="IMG/Circuito.jpeg" alt="imagem do circuito arduino">
+    <img src="IMG/Circuito.png" alt="imagem do circuito arduino">
 </p>
