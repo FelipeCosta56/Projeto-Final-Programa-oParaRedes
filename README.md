@@ -34,3 +34,9 @@ bem como seu armazenamento em um banco de dados e suas visualizações.
   1) O codigo [Arduino.py](Codigo/Arduino.py) receberá os dados enviados do Arduino para a porta serial e enviá-los ao servidor.
   2) O codigo [Cliente.py](Codigo/Cliente.py) faz requisições ao servidor em busca dos dados definidos em tempo real pelo cliente.
   3) Após os dados serem obtidos, o codigo [Cliente.py](Codigos/Cliente.py) salva em um arquivo no formato JSON e exibe a média     dos mesmos para o usuário. O usuário tem quatro opções de consulta: temperatura, humidade, gás e todas as anteriores.
+  
+  Circuito do arduino:
+  
+  <p align="center">
+    <img src="IMG/Circuito.jpeg" alt="imagem do circuito arduino">
+</p>
